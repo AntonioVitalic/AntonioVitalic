@@ -97,8 +97,8 @@ I hold a degree in Computer Science Engineering and a B.Sc. in Astronomy from Un
 ### Education
 
 - **Diploma in Generative AI & Language Models** — [CENIA](https://www.cenia.cl) *(2025 - 2026)*
-- **Computer Science Engineering** — [Universidad de Chile](https://uchile.cl), FCFM *(2018 - 2025)*
-- **B.Sc. in Astronomy** — [Universidad de Chile](https://uchile.cl), FCFM *(2020 - 2022)*
+- **Computer Science Engineering** — [Departamento de Ciencias de la Computación - Universidad de Chile](https://dcc.uchile.cl/), FCFM *(2018 - 2025)*
+- **B.Sc. in Astronomy** — [Departamenteo de Astronomía - Universidad de Chile](https://das.uchile.cl/), FCFM *(2020 - 2022)*
 
 ---
 

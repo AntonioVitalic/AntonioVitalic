@@ -27,7 +27,7 @@ I hold a degree in Computer Science Engineering and a B.Sc. in Astronomy from Un
   - Migrated 30 endpoints from PHP/Laravel to ASP.NET (C#), achieving **10x performance improvement** on average.
   - Full Swagger documentation.
 
-- **Software Engineer Intern** @ Pricemaker *(Jan 2024 - Feb 2024)*
+- **Software Engineer Intern** @ [Pricemaker](https://pricemaker.io/) *(Jan 2024 - Feb 2024)*
   - Standardized and modularized the web platform for scalability. DB management and migration.
   - Built a proof of concept with Redash and developed a chatbot using the OpenAI API.
 

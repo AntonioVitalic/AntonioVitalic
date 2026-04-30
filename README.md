@@ -96,7 +96,7 @@ I hold a degree in Computer Science Engineering and a B.Sc. in Astronomy from Un
 
 ### Education
 
-- **Diploma in Generative AI & Language Models** — [CENIA](https://www.cenia.cl) *(2025 - 2026)*
+- **Diploma in Generative AI & Language Models** — [Centro Nacional de Inteligencia Artificial (CENIA)](https://www.cenia.cl) *(2025 - 2026)*
 - **Computer Science Engineering** — [Departamento de Ciencias de la Computación - Universidad de Chile](https://dcc.uchile.cl/), FCFM *(2018 - 2025)*
 - **B.Sc. in Astronomy** — [Departamento de Astronomía - Universidad de Chile](https://das.uchile.cl/), FCFM *(2020 - 2022)*
 
@@ -106,7 +106,7 @@ I hold a degree in Computer Science Engineering and a B.Sc. in Astronomy from Un
 
 - Outstanding Student of Computer Science Engineering, 2023.
 - Regional Chemistry Olympiad finalist, 2016 & 2017.
-- Best student of his high school graduating class, 2017.
+- Best student of high school graduating class, 2017.
 
 ---
 
